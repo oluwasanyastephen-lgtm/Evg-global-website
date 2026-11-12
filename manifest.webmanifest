@@ -1,0 +1,29 @@
+{
+  "id": "/",
+  "name": "EVG Global",
+  "short_name": "EVG",
+  "description": "EVG Global — Design, Digital and Growth",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090914",
+  "theme_color": "#090914",
+  "categories": [
+    "business",
+    "shopping",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
